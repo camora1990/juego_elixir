@@ -3,7 +3,7 @@ import Config
 # Configure your database
 config :juego, Juego.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "123",
   hostname: "localhost",
   database: "juego_dev",
   stacktrace: true,
